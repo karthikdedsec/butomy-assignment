@@ -4,7 +4,7 @@ import Counter from "../assets/figma/about/Counter.png";
 
 function About() {
   return (
-    <div className="flex flex-col">
+    <div className="flex flex-col p-3">
       <div className="flex justify-center items-center">
         <img
           className="w-[873px] h-[311px] object-contain pt-6"
